@@ -4,5 +4,7 @@ public class main {
 
         System.out.println(args[0]);
         System.out.println(123);
+        System.out.println(456);
+        
     }
 }
